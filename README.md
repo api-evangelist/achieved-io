@@ -66,7 +66,7 @@
 
 Achieved.io provides AI‑powered investor relations and reporting software for fund managers, operators, and investors. It centralizes communications, documents, and portal access into a single workflow, offering features such as customizable reporting, secure document sharing, and real‑time investor updates. The platform aims to streamline capital‑raising processes, improve transparency, and enhance stakeholder engagement through an intuitive web interface and robust API integrations.
 
-**Areas:** Company · InvestorRelations · Reporting · SaaS · API
+**Areas:** Company · Investor Relations · Reporting · Software-as-a-Service
 
 ## Achieved.io on APIs.io
 
@@ -129,25 +129,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 47.0** — developing · rubric 0.27.0 · scored 2026-11-09
+**Kin Score 29.2** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
-| Contract quality | 55.7 |
-| Contract governance | 79.1 |
+| Discoverability | 53.6 |
+| Contract quality | 26.2 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 60.0 |
+| Access clarity | 51.1 |
 
-**Agent readiness 23.7** — agent-aware
+**Agent readiness 20.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -166,8 +166,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | partial |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/achieved-io/](https://apis.io/providers/achieved-io/).
 
